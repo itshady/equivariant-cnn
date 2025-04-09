@@ -1,3 +1,4 @@
 code/*/
 cnn/*/
 *.zip
+*.DS_Store
